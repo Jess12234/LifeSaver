@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "oar1 copy.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "oar1.png",
       "scale" : "2x"
     },
     {
